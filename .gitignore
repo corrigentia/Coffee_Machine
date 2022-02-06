@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Topics/Default arguments/Gratuity/out/
+/Topics/Default arguments/Gratuity/out/production/classes/
+/Topics/Enum/Currency comparison/out/
+/Topics/Enum/Currency comparison/out/production/classes/
+/Topics/Enum/The rainbow order/out/
+/Topics/Enum/The rainbow order/out/production/classes/
+/Topics/Member functions/Car/out/
+/Topics/Member functions/Car/out/production/classes/
+/Topics/Named arguments/Car price/out/
+/Topics/Named arguments/Car price/out/production/classes/
+/Topics/Named arguments/Deposit/out/
+/Topics/Named arguments/Deposit/out/production/classes/
+/Topics/Named arguments/Perimeter/out/
+/Topics/Named arguments/Perimeter/out/production/classes/
